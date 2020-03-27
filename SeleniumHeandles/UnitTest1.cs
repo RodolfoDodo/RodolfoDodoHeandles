@@ -1,7 +1,5 @@
 using NUnit.Framework;
 using OpenQA.Selenium.Chrome;
-using System;
-using System.Collections.Generic;
 
 namespace SeleniumHeandles
 {
@@ -15,14 +13,10 @@ namespace SeleniumHeandles
         [Test]
         public void Test1()
         {
-            String url = "http://www.google.com";
-            var chromeOptions = new ChromeOptions();
-            chromeOptions.AddArguments(new List<string>() { "headless" });
-
-            var chromeDriverService = ChromeDriverService.CreateDefaultService();
-            ChromeDriver driver = new ChromeDriver(chromeDriverService, chromeOptions);
-            driver.Navigate().GoToUrl(url);
-            Assert.AreEqual("Google", driver.Title);
+            ChromeDriver c = new ChromeDriver();
+            c.Navigate().GoToUrl("https://www.google.com.br/");
+            Assert.AreEqual("Google", c.Title);
+            c.Dispose();
         }
     }
 }

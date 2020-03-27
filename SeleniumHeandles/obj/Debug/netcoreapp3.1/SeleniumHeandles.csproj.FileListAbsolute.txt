@@ -95,3 +95,4 @@ C:\Users\Rodolfo\source\repos\SeleniumHeandles\SeleniumHeandles\bin\Debug\netcor
 C:\Users\Rodolfo\source\repos\SeleniumHeandles\SeleniumHeandles\obj\Debug\netcoreapp3.1\SeleniumHeandles.dll
 C:\Users\Rodolfo\source\repos\SeleniumHeandles\SeleniumHeandles\obj\Debug\netcoreapp3.1\SeleniumHeandles.pdb
 C:\Users\Rodolfo\source\repos\SeleniumHeandles\SeleniumHeandles\obj\Debug\netcoreapp3.1\SeleniumHeandles.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\source\repos\SeleniumHeandles\SeleniumHeandles\bin\Debug\netcoreapp3.1\chromedriver.exe
