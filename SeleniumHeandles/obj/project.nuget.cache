@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "83t7iyQIqccHUcPZg9vG2p8aqOewCyTOP5zIk6hbmCYaNaqpyDzwaRn1+xroaabz/eywxov62H4vZClzT5bQyQ==",
+  "dgSpecHash": "n5TZ0ThMAXg3xfV8LTav3ThSxKG9K+0jjzbCRcPHBiY4stCv9C9YNvpoA8CEOcrf3tkU6gycZtMXcU7ZGTAHyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rodolfo\\source\\repos\\SeleniumHeandles\\SeleniumHeandles\\SeleniumHeandles.csproj",
   "expectedPackageFiles": [
@@ -10,8 +10,8 @@
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.net.test.sdk\\16.4.0\\microsoft.net.test.sdk.16.4.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.4.0\\microsoft.testplatform.objectmodel.16.4.0.nupkg.sha512",
-    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.testplatform.testhost\\16.4.0\\microsoft.testplatform.testhost.16.4.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.win32.registry\\4.3.0\\microsoft.win32.registry.4.3.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
